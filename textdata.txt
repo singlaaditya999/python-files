@@ -1,0 +1,877 @@
+Page No-1, Name - 
+
+
+Page Link- http://midas.iiitd.edu.in/
+Text Data--
+MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information. MIDAS stands for Multimodal Digital Media Analysis Lab and it is founded by Dr. Rajiv Ratn Shah. Dr. Shah is assistant professor in the department of Computer Science and Engineering (jointly appointed with the department of Human Centered Design) at IIIT-Delhi. Our work at MIDAS includes Machine Learning, Multimedia Content Processing, Natural Language Processing, Image Processing, Multimodal Computing, Data Science, Social Media Computing, and the Internet of Things. We believe in multidisciplinary collabrative research and work closely with eminent researchers from National University of Singapore (NUS), National Institute of Informatics (NII), Nanyang Technological University (NTU), Bloomberg, Arkana Lab, etc.
+
+We are on Facebook and Twitter now. www.facebook.com/midasIIITD and www.twitter.com/midasIIITD
+Congratulations Vaishali for getting placed in Qualcomm.
+A paper titled, “Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed”, got accepted in the Brave New Idea track of ACM Multimedia 2018 (approx 8% acceptance rate). Congratulation to authors: Yaman Kumar, Mayank Aggarwal, Pratham Nawal, Shin’ichi Satoh, Rajiv Ratn Shah, Roger Zimmerman.
+MIDAS founder and collaborators, Rajiv Ratn Shah, Yifang Yin, and Roger Zimmermann published a full paper titled, “Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization”, in the ACM Multimedia 2018, a premier conference for multimedia research.
+
+
+
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+
+
+
+
+
+
+
+
+News
+
+					We are on FB and Twiter now
+					
+www.facebook.com/midasIIITD
+www.twitter.com/midasIIITD
+Rajiv
+
+					Vaishali got placed
+					
+Rajiv
+
+					Paper accepted at ACMMM2018
+					
+Yaman Kumar
+Mayank Aggarwal
+Pratham Nawal
+Shin’ichi Satoh
+Rajiv Ratn Shah
+Roger Zimmerman
+Rajiv
+
+					Paper accepted at ACMMM2018
+					
+Rajiv Ratn Shah
+Yifang Yin
+Roger Zimmermann
+Rajiv
+Posts
+
+					Mind Your Language
+					
+Raghav
+
+					Kiki Challenge Dataset Release
+					
+Raghav
+Papers
+			
+
+					Did you offend me? Classification of Offensive Tweets in Hinglish Language
+					
+
+					Get IT Scored using AutoSAS - An Automated System for Scoring Short Answers
+					
+
+					Identification of Emergency Blood Donation Request on Twitter
+					
+
+					Exploring and Learning Suicidal Ideation Connotations in Social Media with DL
+					
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-2, Name - Research
+Page Link- http://midas.iiitd.edu.in/projects/
+Text Data--
+
+In recent years, a huge amount of user-generated content (UGC) online (e.g., text, images, and videos) is accumulated on the web. UGC available on different platforms helps social media companies in sensing feedback, opinion, and interests of users, and provide services accordingly. However, due to the vast amount of data and inherent noise in social media content, often it is difficult to extract useful information from a single modality. Thus, it is essential to leverage information from multiple modalities to reduce noise from social media content. We leverage both multimedia content and contextual information to provide solutions to several important problems such as fake news detection, trolling detection, hate-speech detection, popularity predictions of photos, soundtrack recommendations for videos, and event summarization. At MIDAS@IIITD, we focus on building efficient fusion mechanisms using deep neural networks techniques which can help social media companies to provide a better service to their users. Our recent papers on multimodal social media analysis are published in top-tier conferences such as ACM Multimedia, WWW, NAACL, etc.
+
+Speechreading broadly involves looking, perceiving, and interpreting spoken symbols. It has a wide range of multimedia applications, such as surveillance, Internet telephony, and as an aid to a person with hearing impairments. However, most of the work in speechreading has been limited to text generation from silent videos. Recently, research has ventured into generating (audio) speech from silent video sequences but there have been no developments in using multiple cameras for speech generation. To this end, this project encompasses the boundaries of multimedia research by putting forth a model which leverages silent video feeds from multiple cameras recording the same subject to generate intelligent speech for a speaker. Initial results confirm the usefulness of exploiting multiple views in building an efficient speech reading and reconstruction system. It further shows the optimal placement of cameras which would lead to the maximum intelligibility of speech. At MIDAS@IIITD, we plan to leverage the proposed system in various innovative applications and focus on its potential prodigious impact in not just security arena but in many other multimedia analytics problems. Our recent paper on speech reconstruction from silent videos is published in ACM Multimedia, a premier Multimedia conference.
+
+In recent years, advances in artificial intelligence techniques haveyielded immense success in computer vision, natural language processing, and speech processing. Healthcare is also one of the areas which got much benefited through this. Mining social media messages for health and drug-related information has received significant interest in pharmacovigilance research. For instance, an analysis of social media text (e.g., tweets, posts, and comments) using natural language processing and machine learning techniques helps in finding the adverse drug reactions, suicidal ideation, depression detection, medical information extraction, etc. Moreover, computer vision and machine learning techniques help the automatic detection of different disease from tissue images. For instance, it has shown immense success in the detection of cancer, diabetes, kidney failure, etc. Furthermore, speech processing in conjunction with artificial intelligence has shown great success in the treatment of people. Moreover, artificial intelligence helps in building systems for people with different abilities. At MIDAS@IIITD, we focus on several such interesting research problems (e.g., kidney glomeruli classification, automatic kidney fibrosis assessment, adverse drug reactions, and suicidal ideation ) leveraging deep learning techniques. Our recent papers in this area are published in top-tier conferences and journals such as IEEE Intelligent Systems, NAACL, etc.
+
+With the advent of smartphones and auto-uploaders, user-generated content (e.g., tweets, photos, and videos) uploads on social media have become more numerous and asynchronous. Thus, it is difficult and time taking for users to manually search (detect) interesting events. It requires for social media companies to automatically detect events and subsequently recommend them to their users. An automatic event detection is also very useful in an efficient search and retrieval of user-generated content. Furthermore, since the number of users and events on event-based social networks (EBSN) is increasing rapidly, it is not feasible for users to manually find the personalized events of their interest. We would like to further explore events on EBSN such as Meetup for different multimedia analytics projects such as recommending events, groups, and friends to users. At MIDAS@IIITD, we would like to use Deep Neural Network (DNN) technologies due to their immense success to address these interesting problems. Our recent papers on event detection and summarization are published in top-tier conferences and journals such as Knowledge-Based Systems, ACM Multimedia, ACM ICMR, etc.
+
+The exponential rise of social media websites like Twitter, Facebook and Reddit in linguistically diverse geographical regions has led to hybridization of popular native languages with English in an effort to ease communication. For instance, Hinglish is formed of the words spoken in Hindi language but written in Roman script instead of the Devanagari script. It is a pronunciation based bi-lingual language that has no fixed grammar rules. Therefore, it is difficult to derive any useful information from such code-switched languages. Therefore, it necessitates social media companies to build models that can extract useful information from such languages. This will be useful in a number of applications such as detecting offensive languages, understanding feedback, opinions, and sentiments of users towards some product, news, events, policies, etc. At MIDAS@IIITD, we focus on building deep learning models which can extract useful information and automatically perform efficient classifications from code-switched languages such as Hinglish. For instance, our recent paper on detecting offensive language in Hinglish tweets is published in ACL, a premier NLP conference.
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-3, Name - Team
+Page Link- http://midas.iiitd.edu.in/team/
+Text Data--
+Assistant Professor
+PhD Scholar
+PhD Scholar
+M.Tech Student
+M.Tech Student
+M.Tech Student
+M.Tech Student
+M.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student, Rustamji Institute of Technology, BSF Academy.
+B.Tech Student, BML Munjal University
+B.Tech Student, IIIT Bhubaneswar
+B. Tech, IIIT Vadodara
+Research Assistant, IIIT-Delhi
+B.Tech Student, NSIT
+Research Assistant, NSIT
+B.Tech Student, NSIT-Delhi
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+B.Tech Student, USICT
+B.Tech Student, NSIT
+B.Tech Student, DTU
+B.Tech Student, NSIT
+B.Tech Student, DTU
+B.Tech Student, NSIT
+Software Developer, Adobe Systems
+Research Assistants, IIIT-Delhi
+B.Tech Student, NSIT
+Developer, Gramener
+Software Developer, Tower Research Capital
+Developer, Adobe
+B.Tech Student, DTU
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+B.Tech Student, MAIT
+Research Assistants, IIIT-Delhi
+B.Tech Student, DTU
+B.Tech Student, NSIT
+B.Tech Student, DTU
+Research Fellow, National University of Singapore, Singapore
+Assistant Professor, National Institute of Informatics, Japan
+Assistant Professor, IIIT-Delhi
+Nephropathologist, Arkana Laboratories, USA
+Professor, National Institute of Informatics, Japan
+Associate Professor, National University of Singapore, Singapore
+Associate Professor, IIIT-Delhi
+Lecturer, Nottingham Trent University, U.K.
+Lecturer, University of Technology Sydney, Australia
+Associate Professor, Singapore Management University, Singapore
+Research Scientist, Bloomberg LP, USA
+Assistant Professor, IIIT-Delhi
+Research Scientist, Nanyang Technological University, Singapore
+SDE, Microsoft
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+Part Time Researcher, WalmartLabs
+B.Tech Student, IIIT-Delhi
+B.Tech Student, IIIT-Delhi
+Research Associate, IIIT Bhubaneswar
+M.Tech 2018, Microsoft
+M.Tech 2018, Intel
+M.Tech Student, IIIT-Delhi
+M.Tech Student, IIIT-Delhi
+B.Tech Student, IIIT-Delhi
+B.Tech Student, MSIT
+B.Tech Student, NSIT
+B.Tech, GGSIPU
+B.Tech Student, NSIT
+B.Tech Student, DTU
+B.Tech Student, DTU
+B.Tech Student, DTU
+B.Tech 2018, Western Digital
+B.Tech Student, IIT Mandi
+B.Tech Student, JIIT
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+
+
+
+Rajiv Ratn Shah
+
+
+
+Shivangi Singhal
+
+
+
+Hitkul
+
+
+
+Vaibhav Varshney
+
+
+
+Himani Sharma
+
+
+
+Prateek Rawat
+
+
+
+Pallavi S. Rawat
+
+
+
+Himanshu Aggarwal
+
+
+
+Shagun Uppal
+
+
+
+Abhishek Gupta
+
+
+
+Akash Gautam
+
+
+
+Rajat Bansal
+
+
+
+Dhruva Sahrawat
+
+
+
+Vedant Bhatia
+
+
+
+Osaid Rehman Nasir
+
+
+
+Harsh Shrivastava
+
+
+
+Mohit Sharma
+
+
+
+P V N S Rama Krishna
+
+
+
+Mehak Piplani
+
+
+
+Hemant Yadav
+
+
+
+Kush Misra
+
+
+
+Puneet Mathur
+
+
+
+Astitwa Saxena
+
+
+
+Nilay Shrivastava
+
+
+
+Nupur Baghel
+
+
+
+Rajat Maheshwari
+
+
+
+Shashwat Aggarwal
+
+
+
+Mansi Agarwal
+
+
+
+Raghav Kapoor
+
+
+
+Apoorv Bhardwaj
+
+
+
+Namrata Mukhija
+
+
+
+Anmol Chugh
+
+
+
+Arnav Arora
+
+
+
+Hritwik Dutta
+
+
+
+Karmanya Aggarwal
+
+
+
+Ramit Sawhney
+
+
+
+Yaman
+
+
+
+SIMRA SHAHID
+
+
+
+Sarthak Anand
+
+
+
+Mohammad Salik
+
+
+
+Rohit Jain
+
+
+
+Rajat
+
+
+
+Meghna P Ayyar
+
+
+
+Laiba Mehnaz
+
+
+
+Hitesh Nankani
+
+
+
+Anjali Bhavan
+Dr. Yifang Yin
+Dr. Yi Yu
+Dr. Tanmoy Chakraborty
+Dr. Shree Gopal Sharma
+Dr. Shin’ichi Satoh
+Dr. Roger Zimmermann
+Dr. Ponnurangam Kumaraguru
+Dr. Omprakash Kaiwartya
+Dr. Mukesh Prasad
+Dr. Jing Jiang
+Dr. Debanjan Mahata
+Dr. A.V. Subramanyam
+Dr. Soujanya Poria
+Shivli Agrawal 
+Yukti Girdhar
+Paavini Nanda
+Raghav Mehta
+Varnit Jain
+Karan Dabas
+Aditya Kumar Pathak
+Sanket Jain
+Ashutosh Pandey
+Vaishali Dabral
+Tushar Jain
+Shubham Thakral
+Sahil Chopra
+Pratham Nawal
+Prakhar Srivastava
+Mayank Aggarwal
+Himanshu
+Ayush Gupta
+Akash Kumar
+Agniv Sharma
+Abhigyan Khaund
+Aarya Patel
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+Faculty
+Graduate Students
+Post-Graduate Students
+Undergraduate Students
+Interns/ Research Assistants
+Collaborator
+Alumni
+----------------------------------
+
+Page No-4, Name - Papers
+Page Link- http://midas.iiitd.edu.in/papers/
+Text Data--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+
+
+
+Did you offend me? Classification of Offensive Tweets in Hinglish Language
+
+
+
+Get IT Scored using AutoSAS - An Automated System for Scoring Short Answers
+
+
+
+Identification of Emergency Blood Donation Request on Twitter
+
+
+
+Exploring and Learning Suicidal Ideation Connotations in Social Media with DL
+
+
+
+Neural Machine Translation for English-Tamil
+
+
+
+Mind Your Language: Abuse and Offense Detection for Code-Switched Languages
+
+
+
+DeepLip: Speaker Independent Speech Synthesis using Multi-View Lipreading
+
+
+
+Lipper: Synthesizing Thy Speech using Multi-View Lipreading
+
+
+
+Exploring Classification of Histological Disease Bio-markers from Renal Biopsy Images
+
+
+
+Kiki Kills: Identifying Dangerous Challenge Videos from Social Media
+
+
+
+Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed
+
+
+
+Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization
+
+
+
+Detecting Offensive Tweets in Hindi-English Code-Switched Language
+
+
+
+Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings
+
+
+
+#phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter
+
+
+
+Aspect-Based Financial Sentiment Analysis using Deep Learning
+
+
+
+Theme-weighted Ranking of Keywords from Text Documents using Phrase Embeddings
+
+
+
+A Multimodal Approach to Predict Social Media Popularity
+
+
+
+Did you take the #pill? - Detecting Personal Intake of Medicine from Twitter
+
+
+
+Feature-based Map Matching for Low-Sampling-Rate GPS Trajectories
+
+
+
+Geometry-based Localization for GPS Outage in Vehicular Cyber Physical Systems
+
+
+
+FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms
+
+
+
+Virtualization in Wireless Sensor Networks: Fault Tolerant Embedding for Internet of Things
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-5, Name - Blog
+Page Link- http://midas.iiitd.edu.in/blog/
+Text Data--
+This blog is about our research project where we studied abuse and offense detection in the code switched pair of Hindi and English(i.e., Hinglish) under the expert guidance of Dr. Rajiv Ratn Shah, Dr. Roger Zimmermann, and Dr. Ponnurangam Kumaraguru.
+As we write this blog, we remember our journey as research interns at MIDAS Lab. We started this project as our college project in August ’18 when this idea was like a small seed which was sown by our friend Yaman Kumar who is experienced in this field. He introduced us with the highly intellectual professors at MIDAS Lab, who not only gave us a direction but also galvanized us each day into transforming this small idea into a full-fledged research project. As we started working, we became cognizant of the fact that it this a vital issue in today’s world and must be addressed. From what we discovered in our journey; we would like to give everyone a glimpse of it - A small idea that turned into a publication in one of the most prestigious conference of Artificial Intelligence - AAAI’19 at Honolulu, Hawaii, USA, as part of the student abstract and poster track.
+In the Indian Subcontinent the number of Internet users has been continuously rising with the penetration of internet among the masses.It is being estimated that the number of internet users in India will cross 700 million by 2021.With about 53% of the users using Hinglish as the medium of communication on social media in India, the need of the the hour is to have some system to detect hate speech,offensive and abusive posts on social media.
+Although there are many previous works which deal with Hindi and English hate speech (the top two languages in India), but very few on the code-switched version (Hinglish) of the two (Mathur et al. 2018). This is partially due to the following reasons:
+Our work primarily consists of these steps: Preprocessing of the dataset, training of word embeddings,training of the classifier model and then using that on HEOT dataset. Preprocessing involves transliteration using Indic-transliteration python library and translation using Xlit-crowd conversion dictionary which was manually added with common Hinglish words and some profane words. This was followed by training of Glove(Pennington, Socher, and Manning 2014) and Twitter word2vec(Godin et al. 2015) embeddings on both the Davidson and HEOT dataset.Finally a ternary classification model was used using LSTM to classify these tweets into three categories(offensive, abusive and  benign).
+
+
+As shown in the above figure the model was initially trained on the dataset provided by Davidson and then re-trained on the HEOT dataset so as to benefit from the transfer of learned features in the last stage.
+
+
+We have produced “state of the art” results for english.Our model trained on Glove embeddings gives the best results on HEOT dataset. For comparison purposes we also calculate the results of our model on the Davidson dataset.
+In future we look to extend the work in the following ways:
+Use dependency based word embeddings and compare them to the normal word embeddings.
+Work on a model to classify images and videos(also having hindi text) into three categories offensive, abusive and  benign.
+Detect and report facebook users and pages based on their recent posts.
+We feel immensely proud to be the part of this extremely enjoyable journey where we not only learnt just theoretically but also implemented those concepts to real life applications to witness the great impact that technology and artificial intelligence brings to life. We feel honoured and grateful on being able to contribute our skills and simultaneously learn each day from our guides and professors at MIDAS Lab who inspired us throughout the project. This has been a totally satisfying and rewarding experience and would wish to work with the team in future as well to use technology for a better tomorrow. Also, we would like to thank Puneet Mathur for sharing the HEOT dataset and inspiring us through his work in the following paper “Mathur, P.; Shah, R.; Sawhney, R.; and Mahata, D. 2018. Detecting offensive tweets in hindi-english code-switched language. In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media, 18–26.”
+Above all, we thank Almighty God for giving us this opportunity, being with us and guiding us in all situations and making our way through each and every problem.
+Here is a link to a short video for better understanding of the project - https://drive.google.com/open?id=1rpEcsv03B1yifjLftllK3Hep-Ecyzew2
+One of the most famous online social media challenge these days is the Kiki challenge. Also known as “In My Feelings Challenge” or “Do The Shiggy”, it originated when a comedian Shiggy released a video, dancing on the road to the tunes of this song by Drake. Since then people have considered it to be a challenge in which they need to get down of a moving car, and dance alongside the traffic risking their lives and getting their video captured.
+There is no country which has been left untouched when it comes to this. It originated in Canada and spread over the world including United States, Mexico, United Kingdom, India, South Africa, Costa Rica, Egypt, Argentina and so on. People are sharing thousands of tweets commonly involving their videos on a daily basis on social platforms like Twitter and Facebook.
+While it is good to dance and burn some calories, but when it comes to the road it is not such a brilliant idea. There has been many reported incidents where people have been hit by speedy vehicles, fallen off the car and collided head-start with electric poles. It possesses a serious risk to life if not taken with precautions and may even lead to death.
+Realising the importance and implications that this challenge has on the life of so many people, MIDAS decided to build a system which can detect the danger in a given video. The exact methodology followed by us was -
+We started with collecting tweets for the last 15 days using the Tweepy API. Next, we scanned through the data to find out what were the top 20 most commonly used hashtags during the July-August duration using their frequency of occurrence.
+Results of this analysis can be found here - Distribution of Hashtags in Twitter data
+Tweet Collection: The common hashtags discovered in the previous step were used as keywords for further searching of tweets for the complete duration of late June to September. Data from hashtags such as #mumbai police and #egypt police which had comparatively smaller frequency were collected separately.
+Video Collection: After we had a good set of tweets, we used the URLs provided as a parameter inside tweets to download corresponding videos.
+Annotation: Two annotators worked through the complete list of videos categorising them as either safe or dangerous. Removal of retweeted videos as well as irrelevant videos which seemed to not relate was simultaneously done.
+Cross annotation parameter was also calculated by labelling 400 videos for each of the annotators to ensure there was consistency. This test was successful and we obtained a high value (0.95) of Cohen’s Kappa.
+We built a video classification model with VGG16 as the base model. This was appended with a subtle combination of flatten, fully connected dense layers, max pooling layers and dropout layers.
+The model works by taking as input a batch of data containing captured frames of the video we want to classify. The output produced is the probabilities of video between safe and dangerous. Thus we classify the category of the video after rounding the probabilities to the nearest possible values.
+
+We used model checkpointing to store the weights of the best model. Further, to determine the consistency of our model we evaluated it on the test set. An accuracy of 87 percent was obtained, along with a precision of 0.96, and recall score of 0.9.
+Although the current model is fair enough to generate good results, it can surely be improved to account for time analysis using recurrent neural network models. 
+We also plan to create a hybrid model which can take into account both the textual and visual data in a tweet and generate results more accurately.
+Nupur Baghel, Yaman Kumar, Paavini Nanda, Rajiv Ratn Shah, Debanjan Mahata and Roger Zimmermann 
+All of us are members of the MIDAS community.
+To help on improving research in this domain we are hereby releasing the dataset which contains more than 2.3k videos of the KIKI challenge collected from Twitter.
+For the time being the dataset is avalable on request. Anyone intrested can send us a request via E-mail stating there purpose of use (We did some work for you, just click here). We will respond within 7 days.
+Please refre our dataset as below
+Nupur Baghel, Yaman Kumar, Paavini Nanda, Rajiv Ratn Shah, Debanjan Mahata and Roger Zimmermann : Kiki Kills: Identifying Dangerous Challenge Videos from Social Media (2018).
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+Mind Your Language
+Raghav
+https://drive.google.com/open?id=1rpEcsv03B1yifjLftllK3Hep-Ecyzew2
+Kiki Challenge Dataset Release
+Raghav
+Distribution of Hashtags in Twitter data
+here
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+Why Hinglish(code switched pair of Hindi and English) ?
+Has it been done before?
+Our contribution!
+Results
+Applications
+Future Work
+Introduction
+What’s wrong !!?
+Our contributions
+Future Work
+About Us:
+KIKI Datasets Download
+What is this challenge about?
+How popular is the challenge ?
+1. Analysing the common hashtags used
+2. Creating a dataset from social platforms
+3. Building a model for detecting dangerous incidents
+4. Evaluation of models to judge their consistency
+The following video provides a complete summary:
+The authors involved for this project are:
+----------------------------------
+
+Page No-6, Name - Openings
+Page Link- http://midas.iiitd.edu.in/openings/
+Text Data--
+We look for motivated students and interns in our group who are interested to work in the following
+    areas:
+Interested students can email their latest CV at midas@iiitd.ac.in,
+    subject line of email should follow the following format: Application for PhD/intern/RA/BTP etc.
+We are also open to industry collaboration to solve interesting research problems which can facilitate
+    society. If you are interested to collaborate with MIDAS then feel free to call us at +91-11-26907495 or
+    email us at midas@iiitd.ac.in
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+Research Intern 
+Research Assistant 
+Research Assistant 
+midas@iiitd.ac.in
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+Research Intern 
+Research Assistant 
+Research Assistant 
+----------------------------------
+
+Page No-7, Name - News
+Page Link- http://midas.iiitd.edu.in/news/
+Text Data--
+We are on Facebook and Twitter now. www.facebook.com/midasIIITD and www.twitter.com/midasIIITD
+Congratulations Vaishali for getting placed in Qualcomm.
+A paper titled, “Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed”, got accepted in the Brave New Idea track of ACM Multimedia 2018 (approx 8% acceptance rate). Congratulation to authors: Yaman Kumar, Mayank Aggarwal, Pratham Nawal, Shin’ichi Satoh, Rajiv Ratn Shah, Roger Zimmerman.
+MIDAS founder and collaborators, Rajiv Ratn Shah, Yifang Yin, and Roger Zimmermann published a full paper titled, “Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization”, in the ACM Multimedia 2018, a premier conference for multimedia research.
+MIDAS students, Hitkul, Shivangi Singhal, and Himanshu Aggarwal, got selected for six months fully funded internship at National Institute of Informatics, Tokyo, Japan.
+MIDAS collaborator, Dr Debanjan Mahata, is appointed as an adjunct faculty at IIIT-Delhi.
+MIDAS student, Shivangi Singhal, got selected for the ACM India Grad Cohort 2018 which will be held in IIIT Bombay.
+MIDAS intern, Hitkul, enrolled for PhD under the supervision of Prof Rajiv Ratn Shah and Prof PK at IIITD.
+We made our paper titled, “ #phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter”, online on Arxiv to the research community.
+MIDAS founder, Dr. Rajiv Ratn Shah, and collaborator, Dr. Debanjan Mahata, got their research paper, titled “Did you take the pill? – Detecting Personal Intake of Medicine from Twitter”, accepted in the special chapter of IEEE Intelligent Systems on Affective Computing and Sentiment Analysis.
+MIDAS founder, Dr. Rajiv Ratn Shah, got selected for the Heidelberg Laureate Forum fellowship 2018 which will be held in Heidelberg, Germany.
+Prof Rada Mihalcea from University of Michigan has delivered a keynote on “Multimodal Sensing of Human Behavior” in the MR2AMC workshop organized by MIDAS.
+MIDAS founder, Dr. Rajiv Ratn Shah, organized MR2AMC workshop in conjunction with IEEE MIPR conference at Miami, Florida, USA.
+Professor Shin’ichi Satoh and Prof Henri Angelino from the National Institute of Informatics (NII), Japan visited MIDAS@IIITD  to sign MOU between NII and IIIT-Delhi to establish research collaboration between two institutes. MIDAS founder, Prof Rajiv Ratn Shah, is the contact person at IIIT-Delhi for this research collaboration.
+MIDAS students, Hitkul and Shivangi Singhal, got their research paper, titled “Aspect-Based Financial Sentiment Analysis using Deep Learning”, accepted in WWW 2018.
+MIDAS founder, Dr. Rajiv Ratn Shah, and collaborator, Dr. Debanjan Mahata, got their research paper, titled “Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles Using Phrase Embeddings”, accepted in NAACL 2018.
+Our paper titled, “A Multimodal Approach to Predict Social Media Popularity “, got accepted in the MR2AMC workshop 2018
+Our paper titled, “A Multimodal Approach to Predict Social Media Popularity “, got accepted in the MR2AMC workshop 2018
+MIDAS workshop proposal, MR2AMC, is accepted in the IEEE MIPR conference which will be held at Miami, Florida, USA.
+Shivangi Singhal joined as the first PhD student of the MIDAS lab under the supervision of Prof Rajiv Ratn Shah and Prof Tanmoy Chakraborty.
+Hitkul joined as the first intern of the MIDAS lab under the supervision of Prof Rajiv Ratn Shah.
+Prof Rajiv Ratn Shah founded the MIDAS lab.
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+rajiv
+
+www.facebook.com/midasIIITD
+www.twitter.com/midasIIITD
+rajiv
+
+rajiv
+
+Yaman Kumar
+Mayank Aggarwal
+Pratham Nawal
+Shin’ichi Satoh
+Rajiv Ratn Shah
+Roger Zimmerman
+rajiv
+
+Rajiv Ratn Shah
+Yifang Yin
+Roger Zimmermann
+rajiv
+
+Hitkul
+Shivangi Singhal
+National Institute of Informatics
+rajiv
+
+Dr Debanjan Mahata
+IIIT-Delhi
+rajiv
+
+Shivangi Singhal
+ACM India Grad Cohort 2018
+rajiv
+
+Hitkul
+Prof Rajiv Ratn Shah
+Prof PK
+rajiv
+
+rajiv
+
+Dr. Rajiv Ratn Shah
+Dr. Debanjan Mahata
+rajiv
+
+Dr. Rajiv Ratn Shah
+rajiv
+
+Prof Rada Mihalcea
+rajiv
+
+Dr. Rajiv Ratn Shah
+IEEE MIPR conference
+rajiv
+
+Professor Shin’ichi Satoh
+National Institute of Informatics (NII), Japan
+IIIT-Delhi
+Prof Rajiv Ratn Shah
+rajiv
+
+Hitkul
+Shivangi Singhal
+WWW 2018
+rajiv
+
+Dr. Rajiv Ratn Shah
+Dr. Debanjan Mahata
+NAACL 2018
+rajiv
+
+rajiv
+
+rajiv
+
+IEEE MIPR conference
+rajiv
+
+Shivangi Singhal
+Prof Rajiv Ratn Shah
+Prof Tanmoy Chakraborty
+rajiv
+
+Hitkul
+Prof Rajiv Ratn Shah
+rajiv
+
+Prof Rajiv Ratn Shah
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-8, Name - Events
+Page Link- http://midas.iiitd.edu.in/events/
+Text Data--
+MR2AMC is a series of workshops on Multimodal Representation, Retrieval, and Analysis of Multimedia Content organized by the MIDAS lab in IIIT-Delhi. MIDAS stands for Multimodal Digital Media Analysis Lab and it consists a group of researchers who study, analyze, and build different multimedia systems for society leveraging multimodal information. The first iteration of the workshop held in conjunction with the IEEE MIPR conference. The second iteration of the workshop will be held in conjunction with the 20th IEEE International Conference on Multimedia in Taichung, Taiwan. This year’s workshop theme is social media. Thus, MR2AMC aims to provide an international forum for researchers in the field of multimedia data processing, analysis, search, mining, and management leveraging multimodal information in social media. This workshop will provide a forum to researchers and practitioners from both academia and industry for original research contributions and practical system design, implementation, and applications of multimodal multimedia information processing, mining, representation, management, and retrieval. MR2AMC 2018 invites research papers in the area of multimodal multimedia content analysis, search and retrieval, semantic computing, and affective computing. Accepted papers of MR2AMC 2018 will be published as part of the workshop proceedings in the IEEE Digital Library. Extended versions of the accepted workshop papers will be invited for publication in Springer Cognitive Computation and IEEE Computational Intelligence Magazine.
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Blog
+Openings
+
+              More 
+
+News
+Events
+MR2AMC
+Springer Cognitive Computation
+IEEE Computational Intelligence Magazine
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
